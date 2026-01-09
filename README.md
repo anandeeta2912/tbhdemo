@@ -1,3 +1,4 @@
 # tbhdemo
-this is my first repository
-author - Anandeeta
+this is my first repository.
+<br>
+Author - Anandeeta
